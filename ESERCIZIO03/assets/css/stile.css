@@ -1,0 +1,181 @@
+/* IMPOSTAZIONI GENERALI */
+@import url('https://fonts.googleapis.com/css2? family= Prata & famiglia= Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900 & display=scambio');
+
+html, body {
+    background-color:#ffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2em;
+}
+/* HEADER */
+
+header {
+    text-align: center;
+    background-color: #00a0c6;
+    text-transform: uppercase;
+    border-bottom: 4px solid #027794;
+    line-height: 2em;
+}
+
+span {
+    background-color: #ffff;
+    color: #0099cc;
+    line-height: 2em;
+    font-weight: lighter;
+    font-size: 1.8em;
+}
+
+#curriculum {
+    font-size: 2rem;
+}
+
+#intestazione {
+    font-size: 0.8em;
+    
+}
+/* MAIN */
+.informazioni {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #027794;
+}
+
+section {
+    margin-top: 20px;
+
+}
+
+figure {
+    text-align: center;
+}
+
+#postazione {
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+figcaption {
+    font-size: 1em;
+    text-align: center;
+}
+
+address {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 1.0rem;  
+}
+
+#data {
+    font-size: 1.0rem;
+    color: #000;
+}
+
+/* link da visitare*/
+
+a:link {
+    color: #00a0c6;
+    text-decoration: underline;
+  }
+  
+  /* link visitato*/
+  a:visited {
+    color: #027794;
+  }
+  
+  /* mouse sopra il link */
+  a:hover {
+    color: #027794;
+  }
+  
+  /* selezione link */
+  a:active {
+    color: blue;
+  }
+
+  #suDiMe {
+    font-size: 1.0em;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+/* ELEMENTI NEL MAIN */
+blockquote {
+    font-style: italic;
+    font-size: 0.9em;
+    background-color: #e2dfdf;
+    height: 120px;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 20px;
+
+}
+
+.titoli {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #027794;
+    margin-top: 20x;
+    margin-bottom: 20px;
+}
+
+p {
+    line-height: 1.5em;
+}
+
+strong {
+    color: #027794;
+
+}
+
+hr {
+    border: 1px dashed darkgray;
+}
+
+h3 {
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+mark {
+    background-color: #00a0c6;
+    color: #ffff;
+}
+
+ul {
+    margin-left: 50px;
+}
+
+dt {
+margin-left: 20px;
+}
+
+
+dd {
+    margin-left: 50px;
+}
+/* FOOTER */
+
+footer {
+    background-color: #353535;
+    border-top: 5px solid #027794;
+    text-align: center;
+
+}
+
+kbd {
+    color: yellow;
+}
+
+small{
+    color: #999999;
+}
+p {
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.foot {
+    color: #e2dfdf;
+}
